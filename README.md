@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <img src="assets/study_overview.png" width="100%" alt="IchthyoNoma study overview">
+  <img src="study_overview.png" width="100%" alt="IchthyoNoma study overview">
 </p>
 
 ## 🔎 Overview
