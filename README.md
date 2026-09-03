@@ -359,38 +359,6 @@ python scripts/validate_dataset_counts.py /path/to/dataset --target SylFishBD
 
 ---
 
-## 📄 Paper
-
-The anonymized submission is expected at:
-
-[`paper/anonymous_submission.pdf`](paper/anonymous_submission.pdf)
-
-| | |
-|---|---|
-| **Workshop** | 2nd Workshop on Grounded and Faithful Vision-Language Models for Real-World Deployment (**VLM4RWD**) |
-| **Venue** | **NeurIPS 2026** |
-| **Location** | Sydney, Australia |
-| **Date** | December 2026 |
-| **Review state** | Anonymous submission |
-
-The paper evaluates frozen VLMs across language, nomenclature, prompt, and context changes and reports confidence intervals and paired significance tests for the primary robustness analyses.
-
----
-
-## 🕵️ Anonymous-review notice
-
-This repository corresponds to an anonymous workshop submission.
-
-During double-blind review:
-
-- do not publish it from a personally identifying account unless explicitly permitted by the venue;
-- remove author names, institutional identifiers, personal URLs, acknowledgements, and identifying metadata;
-- use an anonymized supplementary archive or anonymized repository if reviewer code access is required;
-- verify the workshop's current anonymity and supplementary-material policy before public release.
-
-A private repository is the safest default until the anonymity period ends.
-
----
 
 ## 📚 Citation
 
