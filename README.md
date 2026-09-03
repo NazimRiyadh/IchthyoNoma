@@ -132,7 +132,7 @@ For biodiversity monitoring, fisheries, aquaculture, market inspection, and auto
 ### Prompt-family response across models and datasets
 
 <p align="center">
-  <img src="assets/prompt_family_accuracy.png" width="96%" alt="Cross-model prompt-family accuracy comparison">
+  <img src="prompt_family_accuracy.png" width="96%" alt="Cross-model prompt-family accuracy comparison">
 </p>
 
 **Reading the figure:** model identity is encoded by color; BFF-15 and SylFishBD are separated by line style. The figure should be interpreted as a **categorical response profile**, not as a continuous trend.
@@ -140,7 +140,7 @@ For biodiversity monitoring, fisheries, aquaculture, market inspection, and auto
 ### Shared-species image distribution
 
 <p align="center">
-  <img src="assets/species_distribution_dotmap.png" width="78%" alt="Dot heatmap of BFF-15 and SylFishBD species counts">
+  <img src="species_distribution_dotmap.png" width="78%" alt="Dot heatmap of BFF-15 and SylFishBD species counts">
 </p>
 
 The connected-dot representation highlights the different per-class image counts across the two sources while preserving the same seven-species benchmark.
@@ -148,7 +148,7 @@ The connected-dot representation highlights the different per-class image counts
 ### Species-level context response
 
 <p align="center">
-  <img src="assets/context_effects.png" width="78%" alt="Class-conditional context effects">
+  <img src="context_effects.png" width="78%" alt="Class-conditional context effects">
 </p>
 
 The context analysis shows that aggregate changes can conceal strong class-level heterogeneity.
