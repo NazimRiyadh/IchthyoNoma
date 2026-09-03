@@ -423,18 +423,7 @@ Dataset licenses remain independent of any code license eventually applied to th
 
 ---
 
-## ⚠️ Responsible interpretation
 
-The benchmark should **not** be interpreted as evidence that any evaluated model has general biological understanding or general Bengali-language understanding.
-
-The results are specific to:
-
-- seven fish categories;
-- two public Bangladeshi data sources;
-- the evaluated checkpoints;
-- the tested label strings and prompt templates;
-- one multilingual control;
-- the implemented context interventions.
 
 The broader recommendation is methodological:
 
