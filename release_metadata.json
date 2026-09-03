@@ -1,0 +1,19 @@
+{
+  "project": "IchthyoNoma",
+  "paper_title": "Nomenclature and Context Sensitivity of Zero-Shot Biological Vision-Language Models for Bangladeshi Freshwater Fish Recognition",
+  "submission": "MusIML @ NeurIPS 2026",
+  "status": "anonymous submission snapshot",
+  "classes": [
+    "Rui",
+    "Katla",
+    "Mrigal",
+    "Tilapia",
+    "Pabda",
+    "Ilish",
+    "Koi"
+  ],
+  "source_images": 10321,
+  "bff15_images": 2656,
+  "sylfishbd_images": 7665,
+  "seed": 42
+}

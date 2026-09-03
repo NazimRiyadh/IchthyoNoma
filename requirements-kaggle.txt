@@ -1,0 +1,6 @@
+# Minimal additions for the Jina CLIP v2 Kaggle notebook.
+# Do NOT force-upgrade Kaggle's NumPy/Pandas/SciPy stack.
+transformers>=4.44,<5
+timm>=1.0,<2
+einops>=0.8,<1
+safetensors>=0.4

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying paper."
+title: "IchthyoNoma: Nomenclature and Context Sensitivity of Zero-Shot Biological Vision-Language Models for Bangladeshi Freshwater Fish Recognition"
+type: software
+authors:
+  - family-names: "TODO"
+    given-names: "TODO"
+repository-code: "https://github.com/TODO/IchthyoNoma"
+url: "https://github.com/TODO/IchthyoNoma"
+version: "0.1.0"
+date-released: "YYYY-MM-DD"
+# Add preferred-citation after the author list and arXiv/DOI are public.
