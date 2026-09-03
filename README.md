@@ -4,9 +4,7 @@
 
 ### Nomenclature and Context Sensitivity in Zero-Shot Vision–Language Models for Bangladeshi Freshwater Fish Recognition
 
-**Anonymous submission to the 2nd Workshop on Grounded and Faithful Vision-Language Models for Real-World Deployment (VLM4RWD), NeurIPS 2026**
 
-**December 2026 · Sydney, Australia**
 
 <p>
   <img src="https://img.shields.io/badge/NeurIPS-2026-8A2BE2?style=for-the-badge" alt="NeurIPS 2026">
